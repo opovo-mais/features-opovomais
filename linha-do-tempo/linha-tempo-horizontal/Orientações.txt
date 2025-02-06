@@ -1,0 +1,8 @@
+Informações importantes para serem seguidas:
+Imagens - Dimensão de 300px/279px
+Título/Ano - Título/Ano com 40 caracteres
+
+Verso do card:
+Título - Título com 60 caracteres
+Texto - Texto com 360 caracteres
+___________________________________________________________________________________
